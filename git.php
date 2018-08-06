@@ -1,3 +1,3 @@
 <?php
 
-shell_exec('git pull origin master');
+var_dump(shell_exec('git pull origin master'));
